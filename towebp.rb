@@ -9,7 +9,7 @@ class Towebp < Formula
 
     depends_on "webp"
 
-    bottle :uneeded
+    bottle :unneeded
 
     def install
         bin.install "towebp"
