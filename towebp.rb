@@ -1,9 +1,9 @@
 class Towebp < Formula
 	desc "A command line tool for simplified cwebp usage"
 	homepage "https://github.com/GermaniaKG/towebp"
-	url "https://api.github.com/repos/GermaniaKG/towebp/tarball/1.0.2"
-	sha256 "5b6bdbb5b6c047ebc1a06cac1ec9fddcac9435850a7de8816c037ef5ebaf850f"
-	version "1.0.2"
+	url "https://api.github.com/repos/GermaniaKG/towebp/tarball/1.0.3"
+	sha256 "b31f993d6874c80e098a5c7ba78a83cda8e18a64141bd9d0cddbf20e2574e270"
+	version "1.0.3"
 
 	depends_on "webp"
 
