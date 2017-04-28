@@ -1,4 +1,4 @@
-class ToWebp < Formula
+class Towebp < Formula
 	desc "A command line tool for simplified cwebp usage"
 	homepage "https://github.com/GermaniaKG/towebp"
 	url "https://api.github.com/repos/GermaniaKG/towebp/tarball/1.0.2"
