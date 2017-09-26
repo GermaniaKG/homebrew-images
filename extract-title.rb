@@ -2,7 +2,7 @@ class ExtractTitle < Formula
   desc "Extract the first PDF page to a JPEG file"
   homepage "https://github.com/GermaniaKG/extract-title"
   url "https://github.com/germaniakg/extract-title/archive/1.0.0.tar.gz"
-  sha256 "7381d6694f061a846eb7fb5bff6114be7c1fa4e285ad168bbcb77b9050b80a43"
+  sha256 "d3639dbe37445b1c9ab34d27684ee079efd6f3fd6f3941242fb2d84c3639c6a7"
 
   bottle :unneeded
 
