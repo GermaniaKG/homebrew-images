@@ -16,6 +16,22 @@ From [brew docs:](https://github.com/Homebrew/brew/blob/master/docs/brew-tap.md)
 
 Well, not too much in here so far. 
 
+### extract-title [project page](https://github.com/GermaniaKG/extract-title)
+
+Extracts the first PDF page to a JPEG file:
+
+```bash
+# with tap installed:
+$ brew install extract-title
+# ...or without having tap installed:
+$ brew install germaniakg/images/extract-title
+
+# Usage:
+$ extract-title input.pdf [ pdf2 ... ]
+$ extract-title *.pdf
+```
+
+
 ### towebp [project page](https://github.com/GermaniaKG/towebp)
 Simplify cwebp encoding: Just pass in input file name and optionally a quality factor. 
 
