@@ -18,17 +18,13 @@ Well, not too much in here so far.
 
 ### extract-title [project page](https://github.com/GermaniaKG/extract-title)
 
-Extracts the first PDF page to a JPEG file:
+Extracts the first PDF page to a JPEG, PNG or WEBP:
 
 ```bash
 # with tap installed:
 $ brew install extract-title
 # ...or without having tap installed:
 $ brew install germaniakg/images/extract-title
-
-# Usage:
-$ extract-title input.pdf [ pdf2 ... ]
-$ extract-title *.pdf
 ```
 
 
@@ -40,9 +36,5 @@ Simplify cwebp encoding: Just pass in input file name and optionally a quality f
 $ brew install towebp
 # ...or without having tap installed:
 $ brew install germaniakg/images/towebp
-
-# Usage:
-$ towebp photo.jpg
-$ towebp photo.jpg 80
 ```
 
